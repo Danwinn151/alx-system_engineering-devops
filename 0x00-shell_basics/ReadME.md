@@ -2,4 +2,4 @@ Display current directory contents.
 
 Long format
 with user and group IDs displayed numerically
-An
+And hidden files (starting with .)
